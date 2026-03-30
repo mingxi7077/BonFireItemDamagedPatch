@@ -1,0 +1,13 @@
+main: com.puddingkc.BonfireItemDamaged
+name: BonfireItemDamaged
+version: "1.1.1-fix1"
+api-version: "1.21"
+author: "PuddingKC"
+description: "Item durability/condition system for Minecraft (patched lore dedupe)."
+depend:
+  - "ItemsAdder"
+  - "NBTAPI"
+permissions:
+  bonfire.item.bypass:
+    description: Bypass item condition checking
+    default: false

@@ -1,0 +1,28 @@
+# 权限：bonfire.item.bypass 绕过检测
+
+lore:
+  # 与 LiteCooking 严格比对兼容：建议关闭（状态仍写入PDC，不丢数据）
+  write-state-line: false
+  # 颜色请使用 1.16+ 兼容写法：&x&R&R&G&G&B&B（也支持 &#RRGGBB）
+  level_0: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&b&7&c&5&a&3崭新出厂"
+  level_1: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&b&2&c&3&c&9微尘不染"
+  level_2: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&c&8&a&d&7&e略染风尘"
+  level_3: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&a&6&9&d&8&a风霜可见"
+  level_4: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&c&7&a&7&a&0磨砺显影"
+  level_5: "&x&e&7&d&9&a&e状态&x&a&6&9&d&8&a: &x&c&7&a&7&a&0古旧斑斓"
+
+# 材质-时间（分钟）
+VanillaList:
+  - "wooden_sword-21600"
+  - "wooden_axe-21600"
+  - "wooden_shovel-21600"
+  - "wooden_pickaxe-21600"
+  - "wooden_hoe-21600"
+  - "stone_sword-43200"
+  - "stone_axe-43200"
+  - "stone_shovel-43200"
+  - "stone_pickaxe-43200"
+  - "stone_hoe-43200"
+
+# 命名空间:ID-时间（分钟）
+ItemsAdderList: []
