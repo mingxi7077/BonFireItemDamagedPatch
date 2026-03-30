@@ -8,6 +8,8 @@
 
 BonFireItemDamagedPatch is the maintained patch branch of Bonfire's item condition system, focused on durability presentation and lore deduplication fixes.
 
+> Non-commercial source-available. Commercial use requires prior written permission via `mingxi7707@qq.com`.
+
 ## Highlights
 
 - Applies condition-based behavior to gameplay items.
