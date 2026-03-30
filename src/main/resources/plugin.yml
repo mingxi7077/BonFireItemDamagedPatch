@@ -4,6 +4,7 @@ version: "1.1.1-fix1"
 api-version: "1.21"
 author: "PuddingKC"
 description: "Item durability/condition system for Minecraft (patched lore dedupe)."
+website: "https://github.com/mingxi7077/BonFireItemDamagedPatch"
 depend:
   - "ItemsAdder"
   - "NBTAPI"
